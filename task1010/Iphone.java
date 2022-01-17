@@ -16,7 +16,6 @@ public class Iphone {
         this.price = price;
     }
 
-    //напишите тут ваш код
 
     public boolean equals(Object obj) {
 
